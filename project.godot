@@ -25,3 +25,5 @@ project/assembly_name="Wallace CRM Application"
 [rendering]
 
 rendering_device/driver.windows="d3d12"
+viewport/hdr_2d=true
+viewport/transparent_background=true
